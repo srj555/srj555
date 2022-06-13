@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sreejith Suresh</h1>
 <img align="right" alt="Coding" width="100" src="https://c.tenor.com/WM0Ji8E27KYAAAAd/scary.gif"</img>
-<h3 align="center">Android | Flutter</h3>
+<h3 align="center">Android | Flutter | Ruby On Rails | Adobe Flex</h3>
 
 - 📫 How to reach me **srj555@gmail.com**
 
